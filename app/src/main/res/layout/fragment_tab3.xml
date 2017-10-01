@@ -1,0 +1,64 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.gameloft.demoviewpager.Tab2Fragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_margin="10dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorAccent"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:text="@string/trinh5" />
+
+        <TextView
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="@string/trinh6"
+            android:textAlignment="inherit"
+            android:ems="10"
+            android:layout_gravity="center"
+            android:id="@+id/editText" />
+        <ImageView
+            android:layout_margin="10dp"
+            android:scaleType="fitStart"
+            android:layout_width="match_parent"
+            android:layout_height="227dp"
+            android:src="@drawable/ngoctrinh7"/>
+        <TextView
+            android:textAlignment="inherit"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="@string/trinh7"
+            android:ems="10"
+            android:layout_gravity="center" />
+        <ImageView
+            android:layout_margin="10dp"
+            android:scaleType="centerCrop"
+            android:layout_width="match_parent"
+            android:layout_height="262dp"
+            android:src="@drawable/ngoctrinh6"/>
+        <TextView
+            android:layout_margin="10dp"
+            android:textAlignment="inherit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="@string/trinh8"
+            android:ems="10"
+            android:layout_gravity="center" />
+
+    </LinearLayout>
+</ScrollView>

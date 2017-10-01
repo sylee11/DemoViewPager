@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DemoViewPager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="trinh6">Trên trang cá nhân vào sáng 23/1, tỷ phú Hoàng Kiều thông báo chia tay Ngọc Trinh sau chỉ khoảng 3 tháng yêu nhau. Đây là thông tin gây nhiều bất ngờ bởi mới trước đó một ngày, ông vẫn tỏ vẻ hạnh phúc khi ra tận sân bay đón nữ diễn viên Vòng eo 56 tại Honolulu, Hawaii (Mỹ).Ông Hoàng Kiều thậm chí còn dự định tổ chức đêm nhạc mừng Valentine giống như một lời chúc phúc cho mối tình so le tuổi tác với Ngọc Trinh..</string>
+    <string name="trinh7">Ngọc Trinh không xứng với tình yêu của tôi</string>
+    <string name="trinh8">Hoàng Kiều chia tay Ngọc Trinh vì ghen?</string>
+    <string name="trinh5">Tỷ phú Hoàng Kiều tuyên bố chia tay Ngọc Trinh.</string>
+    <string name="trinh4">Ngọc Trinh và Hoàng Kiêu thân mật, tình tứ bên nhau.</string>
+    <string name="trinh1">Hẹn hò từ tháng 11 sau màn "mai mối" của người thân ông Hoàng Kiều, Ngọc Trinh và doanh nhân 72 tuổi không ngại điều tiếng dư luận, sẵn sàng công khai những hình ảnh thân mật.</string>
+    <string name="trinh3">Khi đi cùng bạn trai hơn 45 tuổi, Ngọc Trinh không ngại nắm tay ông trên đường phố. Cô còn chủ động thể hiện tình cảm khi tạo dáng chụp ảnh.</string>
+    <string name="trinh2">Nhân dịp Giáng sinh, trang cá nhân của tỷ phú Hoàng Kiều chia sẻ những hình ảnh "tình tứ" bên kiều nữ 27 tuổi Ngọc Trinh trong hai tháng bên nhau. Họ chính thức hẹn hò từ tháng 11 qua sự giới thiệu của con dâu doanh nhân nổi tiếng. Người con dâu tiết lộ ông Hoàng Kiều "cảm mến Ngọc Trinh ngay khi nhìn thấy ảnh cô chụp chung với đồng nghiệp". Sau đó, ông Hoàng Kiều chủ động liên lạc và nhận được sự đồng ý của người đẹp. Họ từng đi du lịch Nhật Bản vào tháng 11.  </string>
+</resources>
